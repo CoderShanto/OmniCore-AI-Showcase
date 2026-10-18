@@ -135,10 +135,10 @@ OmniCore is an evolving project. The demo showcases selected capabilities and wo
 
  🔗 Links
 
-- **GitHub:** [CoderShanto](https://github.com/CoderShanto)
-- **Portfolio:** [View My Portfolio](https://firstportfolio-smoky.vercel.app/)
-- **YouTube Demo:** [Watch OmniCore](https://youtu.be/QpibZ1OS-nY)
-- **Contact:** sshanto12344321@gmail.com
+- GitHub: [CoderShanto](https://github.com/CoderShanto)
+- Portfolio: [View My Portfolio](https://firstportfolio-smoky.vercel.app/)
+- YouTube Demo: [Watch OmniCore](https://youtu.be/QpibZ1OS-nY)
+- Contact: mahmudhasanshanto992@gmail.com
 
  🏷️ Topics
 
